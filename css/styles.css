@@ -1,0 +1,146 @@
+#title{
+  background-color: #ff4c68;
+color:#fff;
+text-align: left;
+}
+
+#t1{
+  font-family: 'Paytone One', sans-serif;
+  font-size: 3.5rem;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+h1,h2,h3{
+line-height: 1.5;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.big-heading{
+  size:6.5rem;
+}
+.medium-heading{
+  font-size: 2rem;
+  padding: 3% 15%;
+}
+.small-heading{
+  size:3.5rem;
+}
+.container-fluid{
+  padding:3% 15% 9%;
+}
+
+.navbar-item{
+  padding:0 18px;
+}
+
+.download-btn{
+  padding:7px;
+  margin:5% 3% 5% 0;
+}
+
+.title-image{
+  width: 55%;
+  transform: rotate(18deg);
+  position: absolute;
+
+
+}
+
+.col-item{
+  padding:10% 5% 10% 5%;
+  margin:2.5% 3% 2.5% 3%;
+}
+.t{
+margin:2.5% 3% 2.5% 3%;
+}
+p{
+  color: grey;
+}
+
+.fa-solid:hover {
+    color:	#1DA1F2;
+}
+#features{
+
+  background-color: #fff;
+position:  relative;
+z-index: 1;
+
+
+}
+.row-features{
+  background-color: #FF9999;
+  color: #fff;
+}
+
+#testimonials{
+  background-color: #FF9999;
+  color: #fff;
+
+}
+.center {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 2%;
+  width: 15%;
+  border-radius: 50%;
+
+}
+#press{
+  background-color: #FF9999;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+margin-right: 20px;
+margin-left: 20px;
+margin-top: 60px;
+}
+
+button:hover{
+    color:#00D7FF;
+}
+
+#pricing{
+  padding: 100px;
+}
+
+.pricing-column{
+  padding:3% 3%;
+}
+
+@media (max-width:995px){
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    transform: rotate(0deg);
+    position: static;
+  }
+}
+
+#cta{
+  background-color: #ff4c68;
+color:#fff;
+font-family: 'Montserrat', sans-serif;
+padding: 5% 15% 5% 15%;
+line-height: 1.5;
+}
+
+.cta-heading{
+  font-family: 'Paytone One', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+#footer{
+  padding: 5% 15% 5% 15%;
+}
+.footer-img{
+  margin: 3% 2%;
+}
